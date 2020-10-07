@@ -1,1 +1,1 @@
-Tree traversals implementations using Recursion and Iteration. 
+Tree traversals using Recursion and Iteration. 
