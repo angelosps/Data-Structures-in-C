@@ -1,4 +1,4 @@
-# Directed Graph
+## Directed Graph
 
 Implementation of Directed Graph Abstract Data Type with the following features: <br />
 
