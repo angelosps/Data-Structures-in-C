@@ -1,4 +1,4 @@
-# Weighted Undirected Graph
+## Weighted Undirected Graph
 
 Implementation of Weighted Undirected Graph Abstract Data Type with Prim's algorithm for Minimum Spanning Tree. <br />
 
