@@ -1,3 +1,1 @@
-# Binary Search Tree
-
-Binary Search Tree implemented using *recursion* and *iteration*.
+Binary Search Tree using *recursion* and *iteration*.
